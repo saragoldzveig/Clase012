@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720.9 600" style="enable-background:new 0 0 720.9 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;}
+	.st2{font-family:'Helvetica-UltraCompressed';}
+	.st3{font-size:10px;}
+	.st4{fill:#7B7B7B;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:12px;}
+	.st7{fill:#F88E53;}
+	.st8{fill:#D5EE9F;}
+	.st9{fill:#9E0142;}
+	.st10{fill:#89CFA5;}
+	.st11{fill:#5E4FA2;}
+	.st12{fill:#DB494A;}
+	.st13{fill:#FBF8B0;}
+	.st14{fill:#FED281;}
+	.st15{fill:#4696B3;}
+	.st16{fill:none;stroke:#CCCCCC;}
+	.st17{font-family:'ArialMT';}
+</style>
+<g id="series">
+	<g transform="translate(0,0)">
+		<g>
+			<rect x="50" y="50" class="st0" width="600" height="600"/>
+			<g transform="translate(50,50)">
+				<g id="axis">
+					<g transform="translate(0,500)">
+						<path class="st1" d="M0,6V0h500v6"/>
+						<g transform="translate(0,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -2.8771 16.1)" class="st2 st3">0</text>
+						</g>
+						<g transform="translate(63,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -5.7541 16.1)" class="st2 st3">50</text>
+						</g>
+						<g transform="translate(125,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">100</text>
+						</g>
+						<g transform="translate(188,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">150</text>
+						</g>
+						<g transform="translate(250,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">200</text>
+						</g>
+						<g transform="translate(313,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">250</text>
+						</g>
+						<g transform="translate(375,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">300</text>
+						</g>
+						<g transform="translate(438,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">350</text>
+						</g>
+						<g transform="translate(500,0)">
+							<line class="st1" x1="0" y1="0" x2="0" y2="6"/>
+							<text transform="matrix(1 0 0 1 -8.6312 16.1)" class="st2 st3">400</text>
+						</g>
+						<text transform="matrix(1 0 0 1 426.0137 -5)" class="st4 st5 st6">Budget (mln)</text>
+					</g>
+					<g>
+						<path class="st1" d="M-6,500h6V0h-6"/>
+						<g transform="translate(0,500)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -14.7541 3.2)" class="st2 st3">0</text>
+						</g>
+						<g transform="translate(0,464)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -26.2623 3.2)" class="st2 st3">200</text>
+						</g>
+						<g transform="translate(0,429)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -26.2623 3.2)" class="st2 st3">400</text>
+						</g>
+						<g transform="translate(0,393)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -26.2623 3.2)" class="st2 st3">600</text>
+						</g>
+						<g transform="translate(0,357)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -26.2623 3.2)" class="st2 st3">800</text>
+						</g>
+						<g transform="translate(0,321)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">1,000</text>
+						</g>
+						<g transform="translate(0,286)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">1,200</text>
+						</g>
+						<g transform="translate(0,250)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">1,400</text>
+						</g>
+						<g transform="translate(0,214)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">1,600</text>
+						</g>
+						<g transform="translate(0,179)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">1,800</text>
+						</g>
+						<g transform="translate(0,143)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">2,000</text>
+						</g>
+						<g transform="translate(0,107)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">2,200</text>
+						</g>
+						<g transform="translate(0,71)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">2,400</text>
+						</g>
+						<g transform="translate(0,36)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">2,600</text>
+						</g>
+						<g transform="translate(0,0)">
+							<line class="st1" x1="0" y1="0" x2="-6" y2="0"/>
+							<text transform="matrix(1 0 0 1 -34.8847 3.2)" class="st2 st3">2,800</text>
+						</g>
+						<text transform="matrix(1 0 0 1 4 10.2949)" class="st4 st5 st6">Real Worldwide Box Office (mln)</text>
+					</g>
+				</g>
+				<g id="viz">
+					<g>
+						<circle class="st7" cx="1" cy="452" r="23"/>
+					</g>
+					<g>
+						<circle class="st7" cx="2" cy="425" r="22"/>
+					</g>
+					<g>
+						<circle class="st8" cx="5" cy="428" r="13"/>
+					</g>
+					<g>
+						<circle class="st7" cx="5" cy="433" r="13"/>
+					</g>
+					<g>
+						<circle class="st7" cx="4" cy="453" r="12"/>
+					</g>
+					<g>
+						<circle class="st9" cx="14" cy="361" r="11"/>
+					</g>
+					<g>
+						<circle class="st10" cx="13" cy="358" r="11"/>
+					</g>
+					<g>
+						<circle class="st7" cx="5" cy="446" r="11"/>
+					</g>
+					<g>
+						<circle class="st11" cx="8" cy="429" r="11"/>
+					</g>
+					<g>
+						<circle class="st12" cx="11" cy="416" r="9"/>
+					</g>
+					<g>
+						<circle class="st13" cx="7" cy="456" r="9"/>
+					</g>
+					<g>
+						<circle class="st14" cx="10" cy="449" r="8"/>
+					</g>
+					<g>
+						<circle class="st15" cx="15" cy="421" r="8"/>
+					</g>
+					<g>
+						<circle class="st9" cx="4" cy="478" r="8"/>
+					</g>
+					<g>
+						<circle class="st8" cx="14" cy="456" r="6"/>
+					</g>
+					<g>
+						<circle class="st7" cx="56" cy="327" r="6"/>
+					</g>
+					<g>
+						<circle class="st9" cx="29" cy="402" r="6"/>
+					</g>
+					<g>
+						<circle class="st9" cx="79" cy="316" r="5"/>
+					</g>
+					<g>
+						<circle class="st12" cx="118" cy="296" r="5"/>
+					</g>
+					<g>
+						<circle class="st9" cx="13" cy="475" r="5"/>
+					</g>
+					<g>
+						<circle class="st8" cx="69" cy="379" r="5"/>
+					</g>
+					<g>
+						<circle class="st9" cx="41" cy="415" r="5"/>
+					</g>
+					<g>
+						<circle class="st9" cx="296" cy="2" r="4"/>
+					</g>
+					<g>
+						<circle class="st8" cx="250" cy="108" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="445" cy="0" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="16" cy="478" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="323" cy="131" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="188" cy="202" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="144" cy="317" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="19" cy="474" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="94" cy="354" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="238" cy="229" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="156" cy="325" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="219" cy="260" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="118" cy="330" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="116" cy="341" r="4"/>
+					</g>
+					<g>
+						<circle class="st7" cx="188" cy="271" r="4"/>
+					</g>
+					<g>
+						<circle class="st7" cx="188" cy="241" r="4"/>
+					</g>
+					<g>
+						<circle class="st7" cx="118" cy="332" r="4"/>
+					</g>
+					<g>
+						<circle class="st12" cx="125" cy="343" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="223" cy="266" r="4"/>
+					</g>
+					<g>
+						<circle class="st9" cx="448" cy="134" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="275" cy="229" r="3"/>
+					</g>
+					<g>
+						<circle class="st7" cx="319" cy="204" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="281" cy="310" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="456" cy="249" r="3"/>
+					</g>
+					<g>
+						<circle class="st7" cx="188" cy="334" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="250" cy="259" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="323" cy="262" r="3"/>
+					</g>
+					<g>
+						<circle class="st9" cx="250" cy="283" r="3"/>
+					</g>
+					<g id="labels">
+						<g transform="translate(1,452)">
+						</g>
+						<g transform="translate(2,425)">
+						</g>
+						<g transform="translate(5,428)">
+						</g>
+						<g transform="translate(5,433)">
+						</g>
+						<g transform="translate(4,453)">
+						</g>
+						<g transform="translate(14,361)">
+						</g>
+						<g transform="translate(13,358)">
+						</g>
+						<g transform="translate(5,446)">
+						</g>
+						<g transform="translate(8,429)">
+						</g>
+						<g transform="translate(11,416)">
+						</g>
+						<g transform="translate(7,456)">
+						</g>
+						<g transform="translate(10,449)">
+						</g>
+						<g transform="translate(15,421)">
+						</g>
+						<g transform="translate(4,478)">
+						</g>
+						<g transform="translate(14,456)">
+						</g>
+						<g transform="translate(56,327)">
+						</g>
+						<g transform="translate(29,402)">
+						</g>
+						<g transform="translate(79,316)">
+						</g>
+						<g transform="translate(118,296)">
+						</g>
+						<g transform="translate(13,475)">
+						</g>
+						<g transform="translate(69,379)">
+						</g>
+						<g transform="translate(41,415)">
+						</g>
+						<g transform="translate(296,2)">
+						</g>
+						<g transform="translate(250,108)">
+						</g>
+						<g transform="translate(445,0)">
+						</g>
+						<g transform="translate(16,478)">
+						</g>
+						<g transform="translate(323,131)">
+						</g>
+						<g transform="translate(188,202)">
+						</g>
+						<g transform="translate(144,317)">
+						</g>
+						<g transform="translate(19,474)">
+						</g>
+						<g transform="translate(94,354)">
+						</g>
+						<g transform="translate(238,229)">
+						</g>
+						<g transform="translate(156,325)">
+						</g>
+						<g transform="translate(219,260)">
+						</g>
+						<g transform="translate(118,330)">
+						</g>
+						<g transform="translate(116,341)">
+						</g>
+						<g transform="translate(188,271)">
+						</g>
+						<g transform="translate(188,241)">
+						</g>
+						<g transform="translate(118,332)">
+						</g>
+						<g transform="translate(125,343)">
+						</g>
+						<g transform="translate(223,266)">
+						</g>
+						<g transform="translate(448,134)">
+						</g>
+						<g transform="translate(275,229)">
+						</g>
+						<g transform="translate(319,204)">
+						</g>
+						<g transform="translate(281,310)">
+						</g>
+						<g transform="translate(456,249)">
+						</g>
+						<g transform="translate(188,334)">
+						</g>
+						<g transform="translate(250,259)">
+						</g>
+						<g transform="translate(323,262)">
+						</g>
+						<g transform="translate(250,283)">
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="legend" transform="translate(600,50)">
+	<g transform="translate(5,0)">
+		<g transform="translate(0,0)">
+			<g transform="translate(23,16)">
+				<g transform="translate(0, 3)">
+					<circle class="st16" cx="0" cy="0" r="3"/>
+					<text transform="matrix(1 0 0 1 28 5)" class="st17 st3">3.8</text>
+				</g>
+				<g transform="translate(0, 41.5)">
+					<circle class="st16" cx="0" cy="0" r="23"/>
+					<text transform="matrix(1 0 0 1 28 5)" class="st17 st3">297.2</text>
+				</g>
+			</g>
+			<text class="st5 st6">ROI</text>
+		</g>
+		<g transform="translate(0,113.30000305175781)">
+			<g transform="translate(0,16)">
+				<g transform="translate(0, 0)">
+					<rect y="0" class="st9" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Accion</text>
+				</g>
+				<g transform="translate(0, 21)">
+					<rect y="0" class="st12" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Aventura</text>
+				</g>
+				<g transform="translate(0, 42)">
+					<rect y="0" class="st7" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Animación</text>
+				</g>
+				<g transform="translate(0, 63)">
+					<rect y="0" class="st14" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Biografía</text>
+				</g>
+				<g transform="translate(0, 84)">
+					<rect y="0" class="st13" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Crimen</text>
+				</g>
+				<g transform="translate(0, 105)">
+					<rect y="0" class="st8" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Drama</text>
+				</g>
+				<g transform="translate(0, 126)">
+					<rect y="0" class="st10" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Familiar</text>
+				</g>
+				<g transform="translate(0, 147)">
+					<rect y="0" class="st15" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Horror</text>
+				</g>
+				<g transform="translate(0, 168)">
+					<rect y="0" class="st11" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 20 12.5)" class="st17 st3">Musical</text>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 0 -1.520703e-05)" class="st5 st6">Genero</text>
+		</g>
+	</g>
+</g>
+</svg>
